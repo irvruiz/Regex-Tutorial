@@ -122,7 +122,7 @@ Escape characters use the backslash character to escape a single character or sy
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (I am a student at the University Of Denver learning computer programming, on my free time I enjoy hanging out with friends, playing video games and going out to new places. I want to keep improving and expanding my skills in the computer science field or in any information technology field.
+I am a student at the University Of Denver learning computer programming, on my free time I enjoy hanging out with friends, playing video games and going out to new places. I want to keep improving and expanding my skills in the computer science field or in any information technology field.
 
 contact me via email: irvinruiz44@yahoo.com
 github profile: https://github.com/irvruiz)
