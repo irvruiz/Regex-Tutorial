@@ -1,6 +1,6 @@
-# Title (Regex Tutorial)
+# Regex Tutorial
 
-Introductory paragraph (This guide we will dive into what regular expressions are and how they work)
+In this guide you will learn the sequence of regular expressions that specifies a search pattern in text.
 
 ## Summary
 
